@@ -20,7 +20,7 @@ After running node index.js, answer the question prompts from the command line. 
 https://www.loom.com/share/a36300794f40430da50a7f0b9abb0834
 
 This results in the following README file:
-![readme-screenshot](assets/images/screenshot.png)
+![readme-screenshot](assets/images/screenshot.JPG)
 
 ## Credits
 
