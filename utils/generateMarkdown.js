@@ -37,9 +37,12 @@ ${data.description}
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [Tests](#tests)
+- [License](#license)
+- [Badges](#badges)
 - [Questions](#questions)
 
 ## Installation
+To install necessary dependencies, run the following command:
 ${data.installation}
 
 ## Usage
@@ -49,6 +52,7 @@ ${data.usage}
 ${data.contributing}
 
 ## Tests
+To run tests, run the following command:
 ${data.tests}
 
 ## License

@@ -8,7 +8,7 @@ const questions = [
     {
         type: 'input',
         name: 'username',
-        message: 'Enter your username:',
+        message: 'Enter your GitHub username:',
       },
     {
         type: 'input',
@@ -28,7 +28,7 @@ const questions = [
     {
         type: 'input',
         name: 'installation',
-        message: 'Enter the installation guidline for your project:',
+        message: 'What command should be run to install dependencies:',
         },
     {
         type: 'input',
@@ -38,12 +38,12 @@ const questions = [
     {
         type: 'input',
         name: 'contributing',
-        message: 'Enter contributors for your project:',
+        message: 'What does the user need to know about contributing to the project:',
       },
     {
         type: 'input',
         name: 'tests',
-        message: 'Enter test details for your project:',
+        message: 'What command should be run to run tests:',
       },
     {
         type: 'list',
@@ -82,7 +82,7 @@ function init() {
         const readmeContent = generateMarkdown(userInput);
   
         // Write to README.md
-        writeToFile('README.md', readmeContent);
+        writeToFile('output/README.md', readmeContent);
       })
       .catch((error) => {
         console.error('Error generating README:', error);

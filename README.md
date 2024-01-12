@@ -1,27 +1,32 @@
 
-# Project name
+# README-Generator
 
 ## Description
-Project description
+This project's aim is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [Tests](#tests)
-- [Questions](#questions)
+- [Credits](#credits)
+- [License](#license)
+- [Badges](#badges)
 
 ## Installation
-installation guidelines
+To install necessary dependencies, run the following command:
+npm i
 
 ## Usage
-usage intructions
+After running node index.js, answer the question prompts from the command line. See video below:
+https://www.loom.com/share/a36300794f40430da50a7f0b9abb0834
 
-## Contributing
-contributors
+This results in the following README file:
 
-## Tests
-test details
+
+## Credits
+
+This README was created by following the Good-README-Guide on git.bootcampcontent:
+
+https://git.bootcampcontent.com/uk-edx-16-week/UK-VIRT-FE-PT-10-2023-U-LOLC/-/blob/main/01-html-git-github-module/04-code-refactor-lesson/challenge/Good-README-Guide.md
 
 ## License
 This application is covered under the MIT License.
@@ -29,5 +34,3 @@ This application is covered under the MIT License.
 ## Badges
 ![MIT License License](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg)
 
-## Questions
-For additional questions, you can reach me at [GitHub](https://github.com/jsk) or via email at jsk@123.com.
