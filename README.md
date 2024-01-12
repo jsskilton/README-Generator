@@ -22,6 +22,8 @@ https://www.loom.com/share/a36300794f40430da50a7f0b9abb0834
 This results in the following README file:
 ![readme-screenshot](assets/images/screenshot.JPG)
 
+This example can be found in output/README.md within github.
+
 ## Credits
 
 This README was created by following the Good-README-Guide on git.bootcampcontent:
