@@ -1,0 +1,3 @@
+node_modules
+# dont think this is needed unless its mac but the readme says to add?
+.DS_Store/
